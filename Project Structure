@@ -1,0 +1,21 @@
+ecommerce-demand-forecasting-recommendation/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+├── data/
+│   └── sales_data.csv
+├── notebooks/
+│   └── demand_forecasting.ipynb
+│   └── recommendation_system.ipynb
+├── scripts/
+│   ├── data_preprocessing.py
+│   ├── demand_forecasting.py
+│   └── recommendation_system.R
+├── models/
+│   └── forecasting_model.pkl
+│   └── recommendation_model.rds
+└── results/
+    └── forecast_results.csv
+    └── recommendations.csv
